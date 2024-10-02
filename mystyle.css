@@ -1,0 +1,21 @@
+
+
+A:link { color:#B8860B; text-decoration:none; }
+A:visited { color:#B8860B; text-decoration:none; }
+A:active { color:#B8860B; text-decoration:none; }
+A:hover { color:#FF0000; text-decoration:underline; }
+
+#color1  A:link { color:#FFFFFF; }
+#color1  A:visited { color:#FFFFFF; }
+#color1  A:active { color:#FFFFFF; }
+#color1  A:hover { color:#E05502; }
+
+#color2  A:link { color:#0000FF; }
+#color2  A:visited { color:#0000FF; }
+#color2  A:active { color:#0000FF; }
+#color2  A:hover { color:#000000; }
+
+BODY { font-family: "Verdana", arial, helvetica, sans-serif;
+       font-size: 15px; }
+
+UL { list-style-image: url('images/bullet.html'); }
